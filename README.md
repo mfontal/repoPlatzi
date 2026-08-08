@@ -1,4 +1,6 @@
 # repoPlatzi
 Repo Curso Git de Platzi
 
-Mi primera contribucion local para Github
+Mi primera contribución local para GitHub
+
+Actualización desde el GitHub al local
